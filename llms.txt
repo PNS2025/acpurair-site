@@ -1,0 +1,30 @@
+# AC PurAir Ventilation
+
+> Service professionnel de nettoyage de conduits de ventilation et de sorties de sécheuses résidentielles à Gatineau, Ottawa et dans la région de l'Outaouais. Équipement moderne, résultats visibles, soumission gratuite.
+
+AC PurAir Ventilation est une entreprise locale spécialisée dans le nettoyage de conduits de ventilation et de sorties de sécheuses pour les résidences de la région de Gatineau-Ottawa. Le site est bilingue (français et anglais) et propose des soumissions gratuites en ligne, des ressources éducatives via un blogue, et un service d'inspection gratuite avec preuves photographiques.
+
+## Pages
+
+- [Accueil](/): Présentation des services, témoignages clients, et appel à l'action pour une soumission gratuite.
+- [Services](/services): Vue d'ensemble des services offerts — nettoyage de conduits et sorties de sécheuses.
+- [Nettoyage de conduits](/services/duct-cleaning): Détails sur le nettoyage de conduits de ventilation résidentiels, bénéfices pour la santé et l'efficacité énergétique.
+- [Nettoyage de sécheuse](/services/dryer-vent): Détails sur le nettoyage de sortie de sécheuse, prévention des incendies et amélioration de la performance.
+- [À propos](/about): Informations sur l'entreprise, l'équipe et la mission.
+- [FAQ](/faq): Réponses aux questions fréquentes sur le nettoyage de conduits et de sécheuses.
+- [Contact](/contact): Formulaire de contact et coordonnées — 613-986-5000, Info@acpurair.com.
+- [Zones desservies](/service-areas): Liste des villes desservies : Gatineau, Ottawa, Aylmer, Hull, Chelsea, Cantley, et plus.
+- [Blogue](/blog): Articles éducatifs sur la ventilation, la sécurité des sécheuses, et les assurances.
+- [Offre spéciale](/offre): Page d'atterrissage pour les campagnes publicitaires Facebook avec promotion exclusive.
+
+## Articles de blogue
+
+- [Feux de sécheuse et assurances](/blog/feux-de-secheuse-assurances): Pourquoi les assurances exigent un nettoyage régulier des sorties de sécheuse.
+- [5 signes que votre sortie de sécheuse est dangereuse](/blog/5-signes-sortie-secheuse-danger): Comment reconnaître les signes avant-coureurs d'un problème.
+- [Conduits de ventilation, santé et énergie](/blog/conduits-ventilation-sante-energie): Lien entre la qualité de l'air intérieur et l'efficacité énergétique.
+- [Propriétaires, gestionnaires et assurances](/blog/proprietaires-gestionnaires-assurances-conduits): Responsabilités des propriétaires et gestionnaires d'immeubles.
+
+## Pages légales
+
+- [Politique de confidentialité](/politique-de-confidentialite): Politique de confidentialité conforme à la Loi 25 du Québec.
+- [Conditions d'utilisation](/conditions-utilisation): Conditions générales d'utilisation du site.
